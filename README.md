@@ -1,3 +1,6 @@
+# 🚗 Uber Clone - React Native
+
+Uma réplica funcional e simplificada do aplicativo Uber, desenvolvida em **React Native** com **Expo**. O projeto engloba desde o controle de acesso com uma tela de login minimalista até o gerenciamento de estados globais para histórico de viagens e simulações de corrida no mapa.
 
 <table>
   <tr>
@@ -8,11 +11,6 @@
     <td><img width="1170" height="2532" alt="IMG_6972" src="https://github.com/user-attachments/assets/8d598aa6-ec3c-4ec1-a89a-1201062a1d04" /></td>
   </tr>
 </table>
-
-# 🚗 Uber Clone - React Native
-
-Uma réplica funcional e simplificada do aplicativo Uber, desenvolvida em **React Native** com **Expo**. O projeto engloba desde o controle de acesso com uma tela de login minimalista até o gerenciamento de estados globais para histórico de viagens e simulações de corrida no mapa.
-
 ---
 
 ## 📱 Demonstração do Aplicativo
